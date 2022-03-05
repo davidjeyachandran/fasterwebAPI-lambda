@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-fasterwebapi-dev-90402-authRole",
+      "UnauthRoleArn": "arn:aws:iam::437833021157:role/amplify-fasterwebapi-dev-90402-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::437833021157:role/amplify-fasterwebapi-dev-90402-authRole",
+      "Region": "ap-southeast-2",
+      "DeploymentBucketName": "amplify-fasterwebapi-dev-90402-deployment",
+      "UnauthRoleName": "amplify-fasterwebapi-dev-90402-unauthRole",
+      "StackName": "amplify-fasterwebapi-dev-90402",
+      "StackId": "arn:aws:cloudformation:ap-southeast-2:437833021157:stack/amplify-fasterwebapi-dev-90402/030a17e0-9c07-11ec-8a91-02cdfb8d7f48",
+      "AmplifyAppId": "d2oij80l3x9alv"
+    }
+  }
+}
